@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Git Tutorial</string>
+    <string name="hello_there_playing_with_git_and_github">Hello there playing with git and github!</string>
 </resources>
